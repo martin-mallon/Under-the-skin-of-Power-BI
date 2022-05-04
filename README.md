@@ -41,8 +41,16 @@
   
 <p>These are standard filters that are created from one of the views in your desktop and then applied to more than the original worksheet. The term global filter implies that the filter affects every single view in that dashboard, but that’s not necessarily the case. They could apply to as little as two views, the original view and another. See how "Device" and "Marketing Channel" are transformed from a drop down filter to an interactive viz that operates as a <b><code>global filter</code></b> when clicked.</p>
 
+<p align="center" width="100%">
+    <img width="75%" src="/Basic_Anatomy_of_Power_BI/Assets/basic_viz.png">
+</p>
+
 <br>
 
 <h3>Custom formatting</h3>
   
 <p>These are standard filters that are created from one of the views in your desktop and then applied to more than the original worksheet. The term global filter implies that the filter affects every single view in that dashboard, but that’s not necessarily the case. They could apply to as little as two views, the original view and another. See how "Device" and "Marketing Channel" are transformed from a drop down filter to an interactive viz that operates as a <b><code>global filter</code></b> when clicked.</p>
+
+<p align="center" width="100%">
+    <img width="50%" src="/Basic_Anatomy_of_Power_BI/Assets/custom_format.png">
+</p>
