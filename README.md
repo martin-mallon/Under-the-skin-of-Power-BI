@@ -6,7 +6,7 @@
 
 <br>
 
-<h3>Navigation UI</h3>
+<h3>Navigation UI </h3>
   
 <p>A navigation system is built using buttons and URL actions. This feature enables users to navigate worksheets using the persistant header buttons or by clicking a graph to reveal related analysis. The <b><code>persistant header</code></b> feature is a solution to the UI complexity and space inefficiencies inherent in a Tableau Story, replacing the clunky grey slider with a sleek, minimalist navigation that does not change. And by integrating <b><code>URL actions</code></b> on graphs, users can conveniently drill explore further the metrics and trends that are eye catching, without having to consider where and how to navigate to related analysis.</p>
 
