@@ -4,7 +4,10 @@
 
 ![This is an image](/Basic_Anatomy_of_Power_BI/Assets/thumbnail_1.jpeg)
 
+![thumbnail](https://user-images.githubusercontent.com/88795187/166716360-b5232d63-21c1-47e9-a9a8-c5ce22559e91.jpeg)
+
 <br>
+
 
 <h3>Navigation UI </h3>
   
